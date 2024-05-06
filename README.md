@@ -1,7 +1,7 @@
 # TUR696
 
 ## Projemin konusu:
-İklim değişikliği farkındalığı
+Kişisel temizlikte gelişme
 
 ### Projemin türü:
-Sokağımızın temizliğini söyleyen Discord botu.
+Odamızın temizliğini söyleyen Discord botu.
